@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jingyang-zhuang
-- 👀 I’m interested in coding and do something people enjoy product!
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in coding and make products that make people happy
+- 🌱 I’m currently learning go
 - 📫 My email address is 249602015@qq.com
 
 <!---
